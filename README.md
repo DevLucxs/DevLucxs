@@ -7,7 +7,7 @@
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript">
   <img src = "https://img.icons8.com/color/512/c-programming.png" width="120" alt="C#">
   <img src = "https://img.icons8.com/color/512/python.png" width="120" alt="Python">
-  <img src = "https://cdn.iconscout.com/icon/free/png-256/free-java-icon-svg-png-download-1174953.png?f=webp" width="200" alt="Java"
+  <img src = "https://cdn.iconscout.com/icon/free/png-256/free-java-icon-svg-png-download-1174953.png?f=webp" width="120" alt="Java"
 </table>
 
 <div> 
