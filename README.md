@@ -2,8 +2,8 @@
 
 <table>
   <a href="https://github.com/DevLucxs">
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="130" alt="C#">
   <img src = "https://img.icons8.com/color/512/python.png" width="120" alt="Python">
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="130" alt="C#">
   <img src = "https://cdn.iconscout.com/icon/free/png-256/free-java-icon-svg-png-download-1174953.png?f=webp" width="120" alt="Java">
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
