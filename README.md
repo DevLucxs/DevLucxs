@@ -9,6 +9,7 @@
 # 👋 Olá, eu sou Lucas Lima
 
 **📊 Estudante de Engenharia de Dados**
+
 🚀 Em transição de carreira, construindo minha base em dados um projeto de cada vez.
 
 ---
